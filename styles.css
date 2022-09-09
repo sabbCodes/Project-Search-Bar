@@ -1,0 +1,41 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.searchbar{
+    background-color: royalblue;
+    height: 20px;
+    text-align: center;
+    padding: 20px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+input{
+    width: 200px;
+    height: 20px;
+    background-color: #fff;
+    border-radius: 19px;
+    border: 0;
+    padding: 3px 10px;
+}
+
+.contents{
+    background-color: purple;
+    padding: 5px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+}
+
+li{
+    background-color: dimgrey;
+    margin-bottom: 10px;
+    height: 20px;
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+}
